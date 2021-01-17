@@ -46,7 +46,7 @@ return {
     liefs="default",
     lightning="default",
     lightninggoat="default",
-    loop="always",
+    loop="never",
     lureplants="default",
     marshbush="default",
     merm="default",
