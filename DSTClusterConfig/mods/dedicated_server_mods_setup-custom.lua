@@ -41,3 +41,20 @@ ServerModSetup("588560555")
 -- Epic Healthbar
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1185229307
 ServerModSetup("1185229307")
+
+-- Isabelle
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1098734419
+ServerModSetup("1098734419")
+
+
+-- Simple Health Bar DST
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
+ServerModSetup("1207269058")
+
+-- Increased Stack size
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=374550642
+ServerModSetup("374550642")
+
+-- Show Me (Origin)
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=666155465
+ServerModSetup("666155465")

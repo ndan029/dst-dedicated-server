@@ -9,3 +9,52 @@
 	--The Workshop id can be found at the end of the url to the collection's Workshop page.
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=379114180
 	--ServerModCollectionSetup("379114180")
+
+-- Wormhole Marks
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=362175979
+ServerModSetup("362175979")
+
+-- Extra Equip Slots
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=375850593
+ServerModSetup("375850593")
+
+-- Health Info
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=375859599
+ServerModSetup("375859599")
+
+-- Global Positions
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=378160973
+ServerModSetup("378160973")
+
+-- Food Values - Item Tooltips (Server and Client)
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=458940297
+ServerModSetup("458940297")
+
+-- Quick Pick
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=501385076
+ServerModSetup("501385076")
+
+-- Auto Tooth Trap Reset
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=588560555
+ServerModSetup("588560555")
+
+-- Epic Healthbar
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1185229307
+ServerModSetup("1185229307")
+
+-- Isabelle
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1098734419
+ServerModSetup("1098734419")
+
+
+-- Simple Health Bar DST
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
+ServerModSetup("1207269058")
+
+-- Increased Stack size
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=374550642
+ServerModSetup("374550642")
+
+-- Show Me (Origin)
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=666155465
+ServerModSetup("666155465")
