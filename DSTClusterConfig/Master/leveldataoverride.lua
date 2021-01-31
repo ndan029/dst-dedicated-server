@@ -64,7 +64,7 @@ return {
     prefabswaps_start="default",
     rabbits="default",
     reeds="default",
-    regrowth="fast",
+    regrowth="default",
     roads="default",
     rock="default",
     rock_ice="default",
